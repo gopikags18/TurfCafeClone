@@ -65,6 +65,28 @@ nav ul li a:hover{
 
 }
 
+
+.home_content {
+    background-image: url("https://static.wixstatic.com/media/cd8349_a3bbd1bbd8464f2888179c26202b2112~mv2.jpg/v1/fill/w_1864,h_913,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/cd8349_a3bbd1bbd8464f2888179c26202b2112~mv2.jpg"); 
+    background-attachment: fixed;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1.2;
+    width: 100%;
+    height: 100vh; 
+    /* transform: scale(1.05);
+    transition: 1s; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white; 
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center; */
+} 
+
+
 .paragraph{
     width: 100%;
     height: 400px;
@@ -121,7 +143,7 @@ justify-content: center;
 
 #para p{
     font-size: 17px;
-    font-weight: 100;
+    font-weight: 300;
     justify-content: center;
     text-align: justify;
     font-family: "IBM Plex Mono", serif;
